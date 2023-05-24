@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Dynamic Programming (Alvin the Programmer's Course)**
 
-- 👨‍💻 All of my projects are available at [owenwhitsett.com](owenwhitsett.com)
+- 👨‍💻 All of my projects are available at ([owenwhitsett.com](https://owenwhitsett.com/))
 
 - 💬 Ask me about **react, web scraping**
 
