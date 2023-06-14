@@ -106,22 +106,22 @@
         <p><strong>HTML5, CSS3, Bootstrap, Javascript, Express, Node, MongoDB w/Mongoose</strong> - Blog to practice using an API only backend to create, read, update and delete blog posts and comments (saved using Mongoose schema to MongoDB Atlas). </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Instagram Clone</h3>
+      <h3 align="center">Wildlife Inventory Application</h3>
         <br />
-        <a target="_blank" href="https://taaaaab.github.io/instagram-clone/#/">
-          <img src="instagram.gif" width="100%" alt="Instagram Clone"/>
+        <a target="_blank" href="https://wildlife-inventory-application.onrender.com/wildlife">
+          <img src="wildlife.gif" width="100%" alt="Wildlife Inventory App"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Taaaaab/instagram-clone" target="_blank">
+  <a href="https://github.com/Taaaaab/wildlife-inventory-application" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://taaaaab.github.io/instagram-clone/#/" target="_blank">
+  <a href="https://wildlife-inventory-application.onrender.com/wildlife" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, React, Firebase</strong> - Clone of Instagram where users can create an account with email/password and upload images. Images are stored using Firebase Storage and displayed in React component with working like and comment system.</p>
+        <p><strong>Express, Node, Pug Template Engine, MongoDB w/Mongoose, CSS & Bootstrap</strong> - Working inventory application of the animals, classification, order and status for a fictional wildlife preserve.</p>
     </td>
   </tr>
 </table>
