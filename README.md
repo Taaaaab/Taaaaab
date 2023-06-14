@@ -17,7 +17,7 @@
       <h3 align="center">AI Travel Guide</h3>
         <br />
         <a target="_blank" href="https://taaaaab.github.io/ai-travel-guide/">
-            <img src="https://github.com/Taaaaab/Taaaaab/assets/101941764/c72f9524-0a29-4921-bc8d-9026287d29d3" width="100%" alt="AI Travel Guide App"/>
+            <img src="https://github.com/Taaaaab/Taaaaab/ai-travel-guide.gif" width="100%" alt="AI Travel Guide App"/>
         </a>
         <br />
         <p align="center">
