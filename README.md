@@ -106,7 +106,9 @@
       </p>
         <p><strong>HTML5, CSS3, Bootstrap, Javascript, Express, Node, MongoDB w/Mongoose</strong> - Blog to practice using an API only backend to create, read, update and delete blog posts and comments (saved using Mongoose schema to MongoDB Atlas). </p>
     </td>
+  </tr>
 
+    <tr>
     <td width="50%" valign="top">
       <h3 align="center">Personal Portfolio</h3>
       <br />
