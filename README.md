@@ -107,21 +107,21 @@
         <p><strong>HTML5, CSS3, Bootstrap, Javascript, Express, Node, MongoDB w/Mongoose</strong> - Blog to practice using an API only backend to create, read, update and delete blog posts and comments (saved using Mongoose schema to MongoDB Atlas). </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Personal Portfolio</h3>
+      <h3 align="center">NBA Scoreboard</h3>
       <br />
-        <a target="_blank" href="https://owenwhitsett.com">
-          <img src="portfolio.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="https://github.com/Taaaaab/nba-scoreboard">
+          <img src="https://raw.githubusercontent.com/Taaaaab/personal-portfolio/main/images/scoreboard.png" width="100%" alt="Scoreboard"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/Taaaaab/personal-portfolio" target="_blank">
+  <a href="https://github.com/Taaaaab/nba-scoreboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://owenwhitsett.com" target="_blank">
+  <a href="https://nba-scoreboard.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3 & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>HTML5, CSS3, React, Node, Express & TypeScript</strong> - React app to display daily NBA scoreboard data. Project to practice using Node with Express backend to serve NBA league data API to frontend React app. Using TypeScript for frontend with Interface types for JSON data. Display includes game score, game status, team names, team records and player statistics for game leaders.</p>
     </td>
   </tr>
 </table>
