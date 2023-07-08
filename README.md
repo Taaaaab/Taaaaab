@@ -124,6 +124,43 @@
         <p><strong>HTML5, CSS3, React, Node, Express & TypeScript</strong> - React app to display daily NBA scoreboard data. Project to practice using Node with Express backend to serve NBA league data API to frontend React app. Using TypeScript for frontend with Interface types for JSON data. Display includes game score, game status, team names, team records and player statistics for game leaders.</p>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Weather App</h3>
+      <br />
+        <a target="_blank" href="https://taaaaab.github.io/weather-app/">
+          <img src="https://raw.githubusercontent.com/Taaaaab/personal-portfolio/main/images/weather-app.png" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Taaaaab/weather-app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://taaaaab.github.io/weather-app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - Weather app using OpenWeatherMap API. Simple site to practice fetch API requests and lookup forecast for any location.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Members Only Message Board</h3>
+      <br />
+        <a target="_blank" href="https://github.com/Taaaaab/members-only">
+          <img src="https://raw.githubusercontent.com/Taaaaab/personal-portfolio/main/images/members.png" width="100%" alt="Members Only"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/Taaaaab/members-only" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://members-only-4j01.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Bootstrap, Node, Express & MongoDB</strong> - The goal of the project was to create a message board to test authentication using passportJS and bcryptjs. Guest visitors only able to view message text. Signed-in users able to post messages and view the author/timestamp. Admin users given the same view with additional ability to delete posts. Users and messages stored using MongoDB with Mongoose Schema.</p>
+    </td>
+  </tr>
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
